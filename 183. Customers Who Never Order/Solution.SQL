@@ -1,4 +1,6 @@
-SELECT name
-FROM Customer CUS
-WHERE CUS.referee_id != 2
-OR CUS.referee_id IS NULL
+SELECT name AS Customers
+FROM Customers CUS
+WHERE CUS.id NOT IN (
+    SELECT customerId 
+    FROM Orders ORD
+)
