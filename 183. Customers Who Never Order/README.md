@@ -1,4 +1,4 @@
-<div class="px-5 pt-4"><div class="group mb-4 inline-flex cursor-pointer flex-col transition-colors text-blue-s dark:text-dark-blue-s hover:text-blue-3 dark:hover:text-dark-blue-3"><div class="inline-flex items-center space-x-1.5"><span>SQL Schema</span><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="1em" height="1em" fill="currentColor"><path fill-rule="evenodd" d="M7.913 19.071l7.057-7.078-7.057-7.064a1 1 0 011.414-1.414l7.764 7.77a1 1 0 010 1.415l-7.764 7.785a1 1 0 01-1.414-1.414z" clip-rule="evenodd"></path></svg></div><hr class="invisible border-blue-s group-hover:visible dark:border-dark-blue-s"></div><div class="_1l1MA"><p>Table: <code>Customers</code></p>
+<p>Table: <code>Customers</code></p>
 
 <pre>+-------------+---------+
 | Column Name | Type    |
