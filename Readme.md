@@ -1,1 +1,0 @@
-Este projeto possui algumas resoluções de problemas do LeetCode. 
